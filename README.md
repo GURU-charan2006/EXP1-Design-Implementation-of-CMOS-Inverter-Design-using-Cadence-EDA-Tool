@@ -14,7 +14,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
-### circuit diagram:
+### Circuit Diagram:
 ![WhatsApp Image 2025-03-23 at 10 20 34_0b3eecd0](https://github.com/user-attachments/assets/b4dc1f4a-426b-4376-a047-3a968de8f6eb)
 
 ## Procedure:
